@@ -12,6 +12,7 @@ class AppComponent extends React.Component {
         <img src={yeomanImage} alt="Yeoman Generator" />
         <div className="notice">Please edit <code>src/components/Main.js</code> to get started!</div>
 	      <span>测试git提交</span>
+	      <span>测试git提交第二次</span>
       </div>
     );
   }
